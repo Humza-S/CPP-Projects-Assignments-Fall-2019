@@ -1,0 +1,26 @@
+﻿  BinTree.cpp
+  Main.cpp
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(38,19): warning C4552: '+': result of expression not used
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(28): message : while compiling class template member function 'void BinTree<int>::insert(Node<T> *,Node<T> *)'
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(28): message :         with
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(28): message :         [
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(28): message :             T=int
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(28): message :         ]
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(23): message : see reference to function template instantiation 'void BinTree<int>::insert(Node<T> *,Node<T> *)' being compiled
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(23): message :         with
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(23): message :         [
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(23): message :             T=int
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(23): message :         ]
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(16): message : while compiling class template member function 'void BinTree<int>::insert(T *)'
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(16): message :         with
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(16): message :         [
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(16): message :             T=int
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\BinTree.cpp(16): message :         ]
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\Main.cpp(17): message : see reference to function template instantiation 'void BinTree<int>::insert(T *)' being compiled
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\Main.cpp(17): message :         with
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\Main.cpp(17): message :         [
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\Main.cpp(17): message :             T=int
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\Main.cpp(17): message :         ]
+  Generating Code...
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\Main.cpp(16): message : see reference to class template instantiation 'BinTree<int>' being compiled
+  InClassAssignment5.vcxproj -> C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\In-Class Assignments\VS In-Class Assignments\InClassAssignment5\InClassAssignment5\Debug\InClassAssignment5.exe

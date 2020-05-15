@@ -1,0 +1,4 @@
+﻿  InClassAssignment4.cpp
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\Project 3\InClassAssignment4\InClassAssignment4.cpp(102): warning C4715: 'outPrecedence': not all control paths return a value
+C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\Project 3\InClassAssignment4\InClassAssignment4.cpp(117): warning C4715: 'inPrecedence': not all control paths return a value
+  InClassAssignment4.vcxproj -> C:\Users\mhumz\OneDrive\Desktop\UTD 2019-2020\F19\CS 2337\Project 3\InClassAssignment4\Debug\InClassAssignment4.exe
